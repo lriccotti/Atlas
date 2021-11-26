@@ -1,0 +1,14 @@
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Atlas_Sistema.solar\Atlas_Sistema.solar\obj\Debug\Atlas_Sistema.solar.csprojResolveAssemblyReference.cache
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Atlas_Sistema.solar\Atlas_Sistema.solar\obj\Debug\Atlas_Sistema.solar.MainForm.resources
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Atlas_Sistema.solar\Atlas_Sistema.solar\obj\Debug\Atlas_Sistema.solar.csproj.GenerateResource.Cache
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Atlas_Sistema.solar\Atlas_Sistema.solar\bin\Debug\Atlas_Sistema.solar.exe
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Atlas_Sistema.solar\Atlas_Sistema.solar\bin\Debug\Atlas_Sistema.solar.pdb
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Atlas_Sistema.solar\Atlas_Sistema.solar\obj\Debug\Atlas_Sistema.solar.exe
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Atlas_Sistema.solar\Atlas_Sistema.solar\obj\Debug\Atlas_Sistema.solar.pdb
+D:\yo\Atlas_Sistema.solar\Atlas_Sistema.solar\bin\Debug\Atlas_Sistema.solar.exe
+D:\yo\Atlas_Sistema.solar\Atlas_Sistema.solar\bin\Debug\Atlas_Sistema.solar.pdb
+D:\yo\Atlas_Sistema.solar\Atlas_Sistema.solar\obj\Debug\Atlas_Sistema.solar.csprojResolveAssemblyReference.cache
+D:\yo\Atlas_Sistema.solar\Atlas_Sistema.solar\obj\Debug\Atlas_Sistema.solar.MainForm.resources
+D:\yo\Atlas_Sistema.solar\Atlas_Sistema.solar\obj\Debug\Atlas_Sistema.solar.csproj.GenerateResource.Cache
+D:\yo\Atlas_Sistema.solar\Atlas_Sistema.solar\obj\Debug\Atlas_Sistema.solar.exe
+D:\yo\Atlas_Sistema.solar\Atlas_Sistema.solar\obj\Debug\Atlas_Sistema.solar.pdb
